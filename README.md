@@ -2,8 +2,10 @@
 General Udacity project items.
 
 ## Host Information
+```
 IP: 52.3.229.8
 SSH PORTS ALLOWED: 2200 and 22
+```
 
 ## Application Information
 The application leverages Auth0 based authentication, Python, 
